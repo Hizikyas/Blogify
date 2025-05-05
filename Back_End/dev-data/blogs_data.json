@@ -1,0 +1,122 @@
+[
+    {
+      "title": "The Future of Artificial Intelligence in Everyday Life",
+      "content": "Exploring how AI will transform our daily routines by 2030...",
+      "author": "Alex Johnson",
+      "coverImage": "ai-future.jpg",
+      "categories": "tech",
+      "publishedAt": "2023-11-15T00:00:00.000Z",
+      "meta": {
+        "likes": 124,
+        "commentsCount": 28
+      }
+    },
+    {
+      "title": "10 Must-Watch Indie Films of 2023 You Probably Missed",
+      "content": "Hidden cinematic gems from this year that deserve more attention...",
+      "author": "Maria Garcia",
+      "coverImage": "indie-films-2023.jpg",
+      "categories": "movie",
+      "publishedAt": "2023-11-15T00:00:00.000Z",
+      "meta": {
+        "likes": 89,
+        "commentsCount": 15
+      }
+    },
+    {
+      "title": "Sustainable Fashion: How to Build an Eco-Friendly Wardrobe",
+      "content": "Practical tips for reducing your fashion footprint...",
+      "author": "Sam Wilson",
+      "coverImage": "eco-fashion.jpg",
+      "categories": "fashion",
+      "publishedAt": "2023-11-15T00:00:00.000Z",
+      "meta": {
+        "likes": 210,
+        "commentsCount": 42
+      }
+    },
+    {
+      "title": "The Evolution of Jazz: From Blues to Modern Fusion",
+      "content": "Tracing jazz's incredible journey through the decades...",
+      "author": "Ella Chen",
+      "coverImage": "jazz-evolution.jpg",
+      "categories": "music",
+      "publishedAt": "2023-11-15T00:00:00.000Z",
+      "meta": {
+        "likes": 76,
+        "commentsCount": 19
+      }
+    },
+    {
+      "title": "Building Your First React Application: A Step-by-Step Guide",
+      "content": "Complete tutorial for beginners to create their first React app...",
+      "author": "David Kim",
+      "coverImage": "react-guide.jpg",
+      "categories": "tech",
+      "publishedAt": "2023-04-15T00:00:00.000Z",
+      "meta": {
+        "likes": 305,
+        "commentsCount": 53
+      }
+    },
+    {
+      "title": "Minimalist Living: How Less Became My More",
+      "content": "Personal journey of embracing minimalism and its benefits...",
+      "author": "Sophie Martin",
+      "coverImage": "minimalist-living.jpg",
+      "categories": "other",
+      "publishedAt": "2023-11-15T00:00:00.000Z",
+      "meta": {
+        "likes": 143,
+        "commentsCount": 31
+      }
+    },
+    {
+      "title": "The Science Behind Perfect Coffee Brewing",
+      "content": "Understanding water temperature, grind size, and extraction...",
+      "author": "James Rodriguez",
+      "coverImage": "coffee-science.jpg",
+      "categories": "other",
+      "publishedAt": "2023-11-15T00:00:00.000Z",
+      "meta": {
+        "likes": 198,
+        "commentsCount": 47
+      }
+    },
+    {
+      "title": "2023's Breakthrough Tech Gadgets That Changed the Game",
+      "content": "Reviewing the most innovative devices released this year...",
+      "author": "Priya Patel",
+      "coverImage": "tech-gadgets-2023.jpg",
+      "categories": "tech",
+      "publishedAt": "2023-09-10T00:00:00.000Z",
+      "meta": {
+        "likes": 267,
+        "commentsCount": 62
+      }
+    },
+    {
+      "title": "Rediscovering Vinyl: Why Records Are Making a Comeback",
+      "content": "The vinyl revival and what it means for music lovers...",
+      "author": "Marcus Lee",
+      "coverImage": "vinyl-comeback.jpg",
+      "categories": "music",
+      "publishedAt": "2023-11-15T00:00:00.000Z",
+      "meta": {
+        "likes": 112,
+        "commentsCount": 24
+      }
+    },
+    {
+      "title": "Behind the Scenes: How Blockbuster Movies Are Made",
+      "content": "Insider look at the massive effort behind big budget films...",
+      "author": "Emma Watson",
+      "coverImage": "movie-making.jpg",
+      "categories": "movie",
+      "publishedAt": "2023-07-22T00:00:00.000Z",
+      "meta": {
+        "likes": 178,
+        "commentsCount": 39
+      }
+    }
+  ]
